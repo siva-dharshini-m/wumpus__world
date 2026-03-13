@@ -1,6 +1,6 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name:                       </h3>
-<h3>Register Number/Staff Id:                </h3>
+<h3>Name:  SIVA DHARSHINI M </h3>
+<h3>Register Number: 212224060253</h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
@@ -28,4 +28,8 @@ It is assumed that there will always be a safe path that the agent can take to e
 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8696111a-a4a7-47cb-ba4b-43a4ef88573f)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/4be5bf06-79fa-4fa0-9334-38a33f06060b)
+
+<hr>
+<h2>Result:</h2>
+    Thus Wumpus World Problem using Python demonstrating Inferences from Propositional Logic is solved successfully
 
